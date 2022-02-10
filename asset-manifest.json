@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-card-game/static/css/main.e516a414.css",
+    "main.js": "/react-card-game/static/js/main.9ba0de8f.js",
+    "static/js/787.d6a8b40f.chunk.js": "/react-card-game/static/js/787.d6a8b40f.chunk.js",
+    "index.html": "/react-card-game/index.html",
+    "main.e516a414.css.map": "/react-card-game/static/css/main.e516a414.css.map",
+    "main.9ba0de8f.js.map": "/react-card-game/static/js/main.9ba0de8f.js.map",
+    "787.d6a8b40f.chunk.js.map": "/react-card-game/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e516a414.css",
+    "static/js/main.9ba0de8f.js"
+  ]
+}
